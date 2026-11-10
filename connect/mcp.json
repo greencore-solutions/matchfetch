@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "matchfetch": {
+      "url": "https://matchfetch.ai/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}
