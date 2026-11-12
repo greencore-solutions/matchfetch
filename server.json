@@ -3,7 +3,7 @@
   "name": "ai.matchfetch/matchfetch",
   "description": "Words in. Barcode out. With how sure.",
   "title": "matchfetch",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "websiteUrl": "https://matchfetch.ai",
   "icons": [
     {
