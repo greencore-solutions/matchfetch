@@ -3,7 +3,7 @@
   "name": "ai.matchfetch/matchfetch",
   "description": "Words in. Barcode out. With how sure.",
   "title": "matchfetch",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "websiteUrl": "https://matchfetch.ai",
   "icons": [
     {
@@ -29,7 +29,7 @@
   ],
   "_meta": {
     "io.modelcontextprotocol.registry/publisher-provided": {
-      "organisation": "GreenCore Solutions Corp.",
+      "organisation": "WeFetch AI Corp.",
       "powered_by": "https://gtinfetch.ai",
       "product": "wefetch"
     }
